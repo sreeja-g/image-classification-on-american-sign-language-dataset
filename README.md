@@ -1,3 +1,5 @@
 # image-classification-on-american-sign-language-dataset
 
-Compare various ml models like logistic regression, Feedforward NN, CNN models' performance on American Sign Language Dataset
+Image Classification on American Sign Language Dataset 
+
+models explored : logistic regression, Feedforward NN, CNN
